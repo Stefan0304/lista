@@ -1,4 +1,4 @@
-#pragma once
+#pragma 
 #include <cstddef>
 #include <iostream>
 using namespace std;
